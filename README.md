@@ -16,5 +16,5 @@
 
 华科光电飞跃计划https://hust-feiyue.github.io/2020_feiyue.pdf
 
-<img width="3325" alt="南医大生统本科自救指北2022 04 03" src="https://user-images.githubusercontent.com/82987086/161483846-73635b86-fe7f-449e-b4c8-feb90d6063fe.png">
 
+<img width="3325" alt="南医大生统本科自救指北20220405" src="https://user-images.githubusercontent.com/82987086/161708216-5c51e000-13f1-4514-917b-84913e79fc91.png">
